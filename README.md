@@ -36,5 +36,5 @@ Or buy me a coffee 🙌🏾
 
 ## 📝 License
 
-Copyright © 2022 [Hebert F Barros](https://github.com/ts-ign0re).<br />
+Copyright © 2022 [Tronin Denis](https://github.com/ts-ign0re).<br />
 This project is [WTFPL](LICENSE) licensed.
